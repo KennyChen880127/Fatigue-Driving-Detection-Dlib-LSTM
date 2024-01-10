@@ -10,4 +10,4 @@ LSTM (Long Short-Term Memory) is a deep learning, sequential neural network that
 ### Results
 | Driver is not fatigued. | Driver is fatigued. |
 | ------------- | ------------- |
-| ![ex1]() | ![ex2]() |
+| ![ex1](https://github.com/KennyChen880127/Fatigue-Driving-Detection-Dlib-LSTM/blob/master/example_2.jpg) | ![ex2](https://github.com/KennyChen880127/Fatigue-Driving-Detection-Dlib-LSTM/blob/master/example_1.jpg) |
