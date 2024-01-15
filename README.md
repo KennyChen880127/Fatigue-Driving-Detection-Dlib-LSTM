@@ -1,4 +1,11 @@
-# Fatigue-Driving-Detection-Dlib-LSTM
+<div align="center">
+<h1>
+<b>
+Fatigue Driving Detection Using LSTM of Facial Landmarks
+</b>
+</h1>
+</div>
+
 This project utilizes the machine learning library Dlib to capture facial landmarks, particularly focusing on eye features. Subsequently, the data is processed through the machine learning frameworks Tensorflow and Keras to construct a Long Short-Term Memory (LSTM) network. The LSTM is trained on Eye Aspect Ratio (EAR) data, enabling it to learn patterns and make predictions. The ultimate goal is to implement a system for detecting driver fatigue.
 
 ## Dlib
